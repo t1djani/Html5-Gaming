@@ -1,0 +1,26 @@
+{
+    "preload": [
+        {
+            "type": "image",
+            "key": "preloadBar",
+            "url": "assets/img/preload-bar.png"
+        }
+    ],
+    "main": [
+        {
+            "type": "image",
+            "key": "dbz-logo",
+            "url": "assets/img/logo.png"
+        },
+        {
+            "type": "image",
+            "key": "map",
+            "url": "assets/img/worldmap.jpg"
+        },
+        {
+            "type": "audio",
+            "key": "gameMusic",
+            "urls": "assets/snd/dbz_songs.mp3"
+        }
+    ]
+}
